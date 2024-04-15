@@ -101,4 +101,5 @@ std::string convert(std::string infix) {
       }
     }
   }
+  return postfix;
 }
